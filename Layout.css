@@ -1,13 +1,60 @@
-.top {
+.all{
     width:95%;
-    height:15%;
+    height:99%;
+    margin:auto;
+}
+.top {
+    width:100%;
+    height:23%;
     margin-left:auto;
     margin-right: auto;
-    background-color: red;
-    padding-top:25px;
 }
+
 .nav {
     width:100%;
-    height:75%;
-    background-color: aquamarine;
+    height:45%;
+    background-color: purple;
+    text-align: center;
+    margin-top:1%;
 }
+.spacer{
+    width:100%;
+    height:5%;
+    background-color:lightgray;
+}
+.quote{
+    width:100%;
+    height:45%;
+    background-color: chocolate;
+}
+.main{
+    width:100%;
+    height: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.sanitisation{
+    height: 49%;
+    width:29.3%;
+    float:left;
+    background-color: aqua;
+}
+.info{
+    height: 49%;
+    width:29.3%;
+    float:left;
+    background-color: fuchsia;
+    margin-bottom: 10px;
+}
+.pic-gallery{
+    width:70%;
+    height:80%;
+    float:right;
+    background-color: darkviolet;
+}
+.bottom{
+    width:70%;
+    height:18%;
+    background-color: deeppink;
+    float:right;
+    margin-top: 10px;
