@@ -19,16 +19,35 @@
     width:70%;
     height:80%;
     float:right;
-    background-color: darkviolet;
+    background-image: url(Water%202.jpg);
+    background-size: 100% 100%;
     border: 2px solid black; 
     box-sizing: border-box;
 }
 .bottom{
     width:70%;
     height:18.4%;
-    background-color: #1b72b4;
+    background-image: url(Energy%203.jpg);
+    background-size: 100%;
+    border: 2px solid black;
+    opacity: 80%;
     float:right;
     margin-top: 9px;
     border: 2px solid black; 
     box-sizing: border-box;
+}
+.sanitisation:hover{
+    background-color: forestgreen;
+    transition-duration: 0.5s;
+}
+.Clean-Water:hover{
+    background-color: #1d2d7e;
+    transition-duration: 0.5s;
+}
+p{
+    text-align: center;
+}
+.bottom:hover{
+    opacity: 100%;
+    transition-duration: 0.5s;
 }
