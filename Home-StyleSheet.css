@@ -1,4 +1,4 @@
-.sanitation{
+.sanitisation{
     height: 49.1%;
     width:29.3%;
     float:left;
@@ -6,7 +6,7 @@
     border: 2px solid black; 
     box-sizing: border-box;
 }
-.clean-water{
+.Clean-Water{
     height: 49.1%;
     width:29.3%;
     float:left;
@@ -36,11 +36,11 @@
     border: 2px solid black; 
     box-sizing: border-box;
 }
-.sanitation:hover{
+.sanitisation:hover{
     background-color: forestgreen;
     transition-duration: 0.5s;
 }
-.clean-water:hover{
+.Clean-Water:hover{
     background-color: #1d2d7e;
     transition-duration: 0.5s;
 }
