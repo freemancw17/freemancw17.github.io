@@ -1,4 +1,4 @@
-.ad{
+.top-main{
     height: 15%;
     background-image: url(Energy%203.jpg);
     background-size: 100%;
@@ -30,12 +30,12 @@
     border: 2px solid black;
     margin-bottom: 3.1%;
 }
-.sanitation{
+.covid-19{
     height:48.5%;
     background-color: #2db660;
     border: 2px solid black;
 }
-.ad:hover{
+.top-main:hover{
     opacity: 100%;
     transition-duration: 0.5s;
 }
@@ -50,7 +50,7 @@ p{
     background-color: #1d2d7e;
     transition-duration: 0.5s;
 }
-.sanitation:hover{
+.covid-19:hover{
     background-color: forestgreen;
     transition-duration: 0.5s;
 }
