@@ -36,11 +36,11 @@
     border: 2px solid black; 
     box-sizing: border-box;
 }
-.sanitisation:hover{
+.sanitation:hover{
     background-color: forestgreen;
     transition-duration: 0.5s;
 }
-.Clean-Water:hover{
+.clean-water:hover{
     background-color: #1d2d7e;
     transition-duration: 0.5s;
 }

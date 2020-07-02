@@ -4,3 +4,9 @@
     border: 2px solid black;
     padding-left: 20px;
 }
+p{
+    margin-top:10px;
+}
+a{
+    text-decoration: none;
+}
